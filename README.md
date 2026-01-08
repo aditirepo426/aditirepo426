@@ -17,7 +17,7 @@
 </p>
 
 ## 👩‍🎓 About Me
-An enthusiastic learner exploring intersections of **manufacturing**, **data science**, and **AI**. I build prototypes that combine simulation, computer vision, and machine learning to solve real problems (traffic optimization, human-centered recommendations). See my resume for a full background: https://drive.google.com/file/d/1q-URocT1xDwS4MR04OacnFIzRl8WvTAp/view?usp=sharing
+An enthusiastic learner exploring intersections of **manufacturing**, **data science**, and **AI**. I build prototypes that combine simulation, computer vision, and machine learning to solve real problems (traffic optimization, human-centered recommendations). See my resume for a full background: https://drive.google.com/file/d/1q-URocT1xDwS4MR04OacnFIzRl8WvTAp/view?usp=sharing<br>
 Portfolio: https://sites.google.com/ds.study.iitm.ac.in/addittikharabe/home  
 LinkedIn: https://www.linkedin.com/in/additti-kharabe-88a139313/
 
