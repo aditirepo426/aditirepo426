@@ -1,4 +1,4 @@
-# **Additti Kharabe** — Manufacturing Engineering student (COEP, Pune) + Majors in  Data Science + Diploma at IIT Madras BS program.  
+# **Additti Kharabe** — Manufacturing Engineering student (COEP, Pune) + Minor in AI + IIT Madras BS program in Data Science and Applications.  
 <p align="center">
   <b>Building intelligent systems that combine simulations, ML, and real-world data</b><br>
 - Strong foundation in Python, simulation, and basic ML/CV.<br>
